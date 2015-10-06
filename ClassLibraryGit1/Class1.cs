@@ -8,5 +8,11 @@ namespace ClassLibraryGit1
 {
     public class Class1
     {
+
+        public string Test()
+        {
+            return "Is this really the best thing you could think of?";
+        }
+
     }
 }
