@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Hidden.cs" />
     <Compile Include="IgnoreMe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

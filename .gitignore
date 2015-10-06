@@ -9,6 +9,7 @@
 # This is my list
 ClassLibraryGit1/App.Release.config
 ClassLibraryGit1/IgnoreMe.cs
+ClassLibraryGit1/Hidden.cs
 
 # Build results
 [Dd]ebug/
