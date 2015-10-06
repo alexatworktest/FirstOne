@@ -7,7 +7,7 @@
 *.sln.docstates
 
 # This is my list
-/ClassLibraryGit1/App.Release.config
+App.Release.config
 
 
 # Build results
