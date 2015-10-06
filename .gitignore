@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+# This is my list
+App.Release.config
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
