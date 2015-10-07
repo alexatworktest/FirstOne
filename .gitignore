@@ -11,6 +11,8 @@ ClassLibraryGit1/App.Release.config
 ClassLibraryGit1/IgnoreMe.cs
 ClassLibraryGit1/Hidden.cs
 ClassLibraryGit1/Again.cs
+ClassLibraryGit1/Ex.cs
+Ex.cs
 
 # Build results
 [Dd]ebug/

@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="Again.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Ex1.cs" />
     <Compile Include="Hidden.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
