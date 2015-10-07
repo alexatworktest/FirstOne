@@ -14,5 +14,9 @@ namespace ClassLibraryGit1
             return "Is this really the best thing you could think of?";
         }
 
+        public int TestTwo()
+        {
+            return 2;
+        }
     }
 }
